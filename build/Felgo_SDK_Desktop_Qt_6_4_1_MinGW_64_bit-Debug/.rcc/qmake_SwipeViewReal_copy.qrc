@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/SwipeViewReal">
+    <file alias="qmldir">D:/SwipeViewReal/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SwipeViewReal/qmldir</file>
+  </qresource>
+</RCC>
+

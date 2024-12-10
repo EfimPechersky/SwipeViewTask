@@ -1,0 +1,4 @@
+module SwipeViewReal
+typeinfo appSwipeViewReal.qmltypes
+prefer :/
+
